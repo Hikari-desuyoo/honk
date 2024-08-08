@@ -7,8 +7,11 @@ Application to store Haylou Smart Watch 2's heartrate on a database. Will probab
 ### Setup
 
 On the current directory, run:
+
 `$ python3 -m venv venv`
+
 `$ source venv/bin/activate`
+
 `$ pip install -r requirements.txt`
 
 ### Running the program
