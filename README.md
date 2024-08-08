@@ -18,6 +18,8 @@ On the current directory, run:
 
 For **recording** the BPM to the database, run `$ python3 record.py` while on venv (`$ source venv/bin/activate`). To get the readings, you need to initiate any of the sports routines on the smartwatch, and leave it running.
 
+For **reading** the data, run `$ python3 read.py`
+
 ### Requirements
 
 Depends on [Bleak](https://github.com/hbldh/bleak) being able to run.
